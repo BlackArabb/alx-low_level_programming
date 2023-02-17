@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * Description function main: This is a
- * simple program to output a statment 
- * without usin 'printf' function  
+ * main - Entry point
+ *  
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return(0);
+	return (0);
 }
